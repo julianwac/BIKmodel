@@ -1,0 +1,5 @@
+1. all datasets are the same except the one that we got from BIK recently
+
+New dataset from bik:
+1. has status columns with values 0,1,2
+2. additional columns Wiek, Terytorium, Plec,
